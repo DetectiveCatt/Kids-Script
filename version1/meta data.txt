@@ -1,0 +1,8 @@
+Version 1 is the bare bones version of kids-script
+it lacks many features but includes the following:
+Loading (stack datatype)
+Add (add nums)
+Print (print values)
+Store (store values as vars)
+
+to write a program always start with the tag "program:"
