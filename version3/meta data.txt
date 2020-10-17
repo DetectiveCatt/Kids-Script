@@ -1,0 +1,3 @@
+This is the meta-data for version 3
+
+This is a bugfix for version 2 in which there were problems in storing string in variables and stacks alike
